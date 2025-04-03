@@ -1,6 +1,6 @@
 # Demo of Group By Aggregations Breaking in Django 5.2
 
-UPDATE
+## UPDATE
 PR that resolves this:
 https://github.com/django/django/pull/19334
 
