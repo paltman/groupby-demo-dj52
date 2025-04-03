@@ -1,5 +1,10 @@
 # Demo of Group By Aggregations Breaking in Django 5.2
 
+UPDATE
+PR that resolves this:
+https://github.com/django/django/pull/19334
+
+
 ## Setup
 
 ```
